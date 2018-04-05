@@ -1,0 +1,30 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Mean Stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/organatik/mean-TEST.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack"
+  ],
+  "author": "organatik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/organatik/mean-TEST/issues"
+  },
+  "homepage": "https://github.com/organatik/mean-TEST#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.12"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.3"
+  }
+}
